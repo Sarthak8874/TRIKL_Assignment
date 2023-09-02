@@ -16,7 +16,7 @@ const App = () => {
           "https://api.unsplash.com/photos/random",
           {
             params: {
-              client_id: "U6gTFT-N8mCKFRrNNwnaSfUduqC56coV5zGE-dOcpdg",
+              client_id: "Ap62Cz3delkG86fIA15MTici0GBC68G_VZvmow2VXyw",
             },
           }
         );
