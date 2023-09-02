@@ -13,7 +13,7 @@ const TextBox = ({
     alignItems: "center",
     justifyContent: "center",
     border: "solid 5px #FFFFFF",
-    color:"white"
+    color:"black"
   };
 
   return (
